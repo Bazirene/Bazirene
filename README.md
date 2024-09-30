@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Design/Development, Software Development, Mobile App Development, and Data Science/Analysis
 - 🌱 I’m currently learning Javascript for webdevelopment
 - 💞️ I’m looking to collaborate on creating responsive websites and 3D websites
-- 📫 How to reach me: rtecolony@gmail.com
+- 📫 How to reach me: bazunoic@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am eager to learn/collaborate with anybody, even with a child with better coding skills!
 
